@@ -1,5 +1,4 @@
 Jarveon - eCommerce Website
-Project Overview
 
 Jarveon is a fully responsive eCommerce website template designed for showcasing and selling products online. This project demonstrates a clean, modern layout with intuitive navigation, product showcases, service sections, and a blog. It is ideal for beginners learning web development and for creating portfolio-ready web projects.
 
@@ -34,4 +33,5 @@ JavaScript – for interactive features
 Ionicons – for icons
 
 Responsive Design Principles – for mobile-friendly layout
+
 
